@@ -1,0 +1,55 @@
+# ==============================================
+# REQUIREMENTS PARA LLAMA 3 + 4-BIT + NLP COMPLETO
+# ==============================================
+# Para instalar: /opt/conda/bin/conda run -p /home/jovyan/.conda/envs/inesagent_gpu python -m pip install -r requirements.txt
+# ==============================================
+
+# === CORE: PyTorch con CUDA 12.1 ===
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+--index-url https://download.pytorch.org/whl/cu121
+
+# === 4-BIT QUANTIZATION (Llama 3) ===
+bitsandbytes==0.43.4
+accelerate==1.7.0
+transformers==4.52.3
+
+# === TOKENIZERS & MODELOS ===
+sentencepiece==0.2.0
+protobuf==4.25.3
+huggingface-hub==0.24.0
+
+# === DATA SCIENCE ===
+pandas==2.0.3
+numpy==1.24.4
+scipy==1.10.1
+scikit-learn==1.2.2
+
+# === NLP & LANGCHAIN ===
+nltk==3.9.2
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+openai==2.16.0
+pydantic==2.11.5
+
+# === DEPENDENCIAS SECUNDARIAS ===
+threadpoolctl==3.5.0
+joblib==1.3.0
+sniffio==1.3.0
+tqdm==4.66.4
+safetensors==0.5.3
+
+# === JUPYTER & DESARROLLO ===
+ipykernel==6.29.4
+jupyter==1.1.1
+ipywidgets==8.1.3
+matplotlib==3.7.2
+seaborn==0.13.2
+notebook==7.1.6
+
+# === UTILIDADES ===
+requests==2.31.0
+python-dotenv==1.1.0
+pyyaml==6.0.1

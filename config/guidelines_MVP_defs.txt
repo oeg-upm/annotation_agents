@@ -1,0 +1,79 @@
+﻿Guía de anotación MVP_defs (P1, P2, P4, P9)
+P1. Objeto
+Criterio: Se anota como “objeto” la información resumida y concisa que describe la prestación principal del contrato definida en el título, antecedentes o en las cláusulas. Se anota el objeto tantas veces como aparezca en el contrato. Se anota como “objeto” los lotes identificados que acompañan el objeto del contrato. 
+Ejemplos: El objeto del presente contrato es la realización, por parte del contratista, del [suministro de armarios consigna con apertura individual mediante cerradura electrónica para los edificios del Banco de España en Lumbreras] de acuerdo con las especificaciones contenidas en el Pliego de Prescripciones Técnicas. 
+P1.1 Inclusión de expedientes en objeto 
+Criterio: Se anotan como “objeto” los números de expediente que acompañan al objeto del contrato. Dicho expediente debe encontrarse adyacente (precediendo o siguiendo) a la definición de la prestación principal.
+Ejemplos: CLÁUSULAS DEL CONTRATO: El contratista se compromete a la [Explotación de la aplicación móvil para personal de la Armada Española del expediente 2022/EA02/00001693E], con estricta sujeción a los Pliegos de Cláusulas Adminsitrativas Prticulares y de Prescripciones Técnicas, documentos contractuales que acepta plenamente. 
+P1.2 Inclusión del lote en el objeto
+Criterio: Se anota como “objeto” los lotes identificados que acompañan el objeto del contrato
+Ejemplos: CONTRATO DE [SERVICIOS DE RESTAURACIÓN DE UN CONJUNTO DE 45 OBRAS PERTENECIENTES AL FONDO HISTÓRICO DE LA BIBLIOTECA DEL SENADO (LOTE 1)] En Gargantilla, a 15 de diciembre de 2023 De una parte, D. León
+P1.3 Delimitación del objeto si está entrecomillado 
+Criterio: Si el objeto está entrecomillado o con comillas repetidas, se anota como “objeto” el objeto del contrato excluyendo todas las comillas que lo acompañan.
+Ejemplos: PRIMERA.- Objeto El presente contrato tiene por objeto el  [SERVICIO         DE         CARGA         Y         DESCARGA         DE    ELEMENTOS  ESCENOGRÁFICOS Y DELA CARROZA PARA LA FUNDACIÓN DEL  TEATRO REAL F.S.P.], con arreglo a la propuesta formulada por la contratista comprensiva de los aspectos técnicos (...). 
+
+
+
+
+P2. Precio del contrato
+Criterio: Se etiqueta como “precio_del_contrato” la cuantía total del contrato sin IVA o IGIC, encontrado en antecedentes o en cláusulas del contrato, tanto si está escrito en letra como si está escrito en número junto la divisa correspondiente. Se anota el precio tantas veces como aparezca en el contrato. 
+Ejemplos: El precio total del contrato es [14.567 €] (SIN IVA). (...) El precio a abonar por la AECID responde a la siguiente distribución de anualidades. Anualidad Importe AÑO 2024 7.593,41.-€ AÑO 2025 3.796,71.-€ total 11.390,12.-€ De acuerdo con los pliegos, el presente contrato no admite la revisión de precios.
+P2.1 Aparición de importes totales con IVA o IGIC
+Criterio: Si el importe de un contrato no aparece sin el IVA o IGIC, se etiqueta como “precio_del_contrato” el precio íntegro con IVA/IGIC precisando específicamente que el importe incluye el IVA/IGIC. 
+Ejemplos: El precio del contrato es de [29999.53 € (IVA incuido)]
+P2.2 Aparición de importes máximos
+Criterio: Se etiqueta como “precio_del_contrato” el precio máximo establecido si el importe total del contrato no aparece (con o sin IVA/IGIC). 
+Ejemplos: Precio. El precio a satisfacer por el Banco de España será el resultado de aplicar a los suministros realizados los respectivos precios unitarios que correspondan, con arreglo a lo establecido en el Pliego de Prescripciones Técnicas y a los precios contenidos en la oferta económica presentada por el Contratista en fecha 27 de julio de 2023. El límite máximo de gasto para el Objeto del contrato, de acuerdo con lo establecido en la oferta económica presentada por el Contratista, de fecha 27 de julio de 2023, es de [950.130,00 euros], que más el 21% de IVA vigente asciende a 1.149.657,30 euros, y que podrá no ser consumido en su totalidad. 
+P2.3 Precios en otros formatos
+Criterio: En el caso de encontrar el precio del contrato especificado como cuantía o renta periódica, desglose de precios asociados a bienes o anualidades u otro formato, se anota como “precio_del_contrato” la oración que incluye la cuantía o precio unitario junto a la periodicidad o bien al que acompaña.
+Ejemplos: Tercera. - [Precio del contrato: por un importe póliza anual por persona asegurada de 3,67 €, y todo ello en los términos y condiciones que figuran en su oferta]. Crédito presupuestario: ANUALIDAD ORGÁNICA ¡PROGRAMA ¡ECONÓMICA 2024 AA81 422D 226.09 2024 AAGO 4220 224 
+
+
+P4. Duración del contrato 
+Criterio: Se etiqueta como “duracion_del_contrato” la oración u oraciones que incluyen el periodo de vigencia del contrato (mensual, anual, indefinido) junto con la fecha o circunstancia/circunstancias a partir de la cual comienza el plazo, incluidas prestaciones principales y secundarias respecto al objeto del contrato.
+P4.01
+Ejemplos: [Duración/Plazo de ejecución. El contrato tendrá vigencia desde el día de su firma. El inicio del servicio tendrá lugar el día 14 de julio de 2022, con una duración inicial de dos años a partir de la citada fecha, pudiendo ser prorrogado de manera expresa por periodos de un año a partir de la fecha de su vencimiento]. La prórroga se acordará por el órgano de contratación y será obligatoria para el contratista, siempre que su preaviso se produzca al menos con dos meses de antelación a la finalización del plazo de duración del contrato.
+P4.02
+Ejemplos: TERCERA [El contrato se iniciará a partir de su formalización.]
+P4.03
+Ejemplos: TERCERA. Duración. El contrato tendrá vigencia desde el día de su firma hasta que IMBISA otorgue su aceptación final a los suministros efectuados, de conformidad con lo dispuesto en la cláusula “Entrega y aceptación” del Pliego de Cláusulas Particulares. [El plazo máximo de entrega a IMBISA de los tres vehículos objeto del contrato será de 4 meses desde la firma del presente contrato.]
+P4.04
+Ejemplos: TERCERA. - [Duración del contrato El Plazo total de ejecución del contrato será de 40 días naturales comenzando a partir del día siguiente a la firma del Acta de Comprobación del Replanteo, sirviendo esta a todos los efectos como autorización del inicio de la obra. No obstante, si hubiera retraso en la firma del Acta, en ningún caso el plazo total de ejecución más firma del Acta de Comprobación del Replanteo podrá superar los 40 días naturales]. ECOSTA queda obligado al cumplimiento del plazo total fijado para la realización del contrato.
+P4.05
+Ejemplos: Los aspectos del contrato que han sido objeto de negociación y que han sido ofertados por el contratista son los siguientes: - [Reducción del plazo de ejecución que será de 8 días naturales según lo ofertado]. SÉPTIMA
+P4.06
+Ejemplos: [El plazo de ejecución del servicio objeto de contratación se determinará conforme a las necesidades operativas de Paradores, y en la fecha indicada cuando así se señale expresamente, El servicio se iniciará por parte del adjudicatario en el momento de la formalización del contrato].
+P4.07
+Ejemplos: [Adjudicar el expediente de contratación n” 18539/2023, con carácter ordinario mediante procedimiento abierto], de servicio de recogida, control veterinario y custodia de los animales domésticos en el término municipal de Rivas-Vaciamadrid, [a la entidad ASOCIACIÓN DE RIVASVACIAMADRID PARA LA PROTECCIÓN DE LOS ANIMALES(RIVANIMAL), en los términos de su oferta, con una bajada del 0,10 % y hasta un importe máximo de 401.080,36 €, al que se le añadirá el 21% de 1.V.A. la cuantía de 84.226,88 €, lo que hace un importe total de 485.307,24 €/para 2 años, 1.V.A. incluido].
+P4.08
+Ejemplos: CRISTIAN ARIEL GADELLA CARNEADO, realizará los trabajos objeto de este contrato de acuerdo con el precio que se relaciona a continuación, manteniendo el precio ofertado por el periodo de un año y con arreglo a las características y condiciones que se indican en los pliegos:
+Sin etiqueta
+P4.09
+Ejemplos: TERCERA. - EL plazo duración total de los trabajos se llevará a cabo conforme a lo indicado en el apartado 18 de la claúsula | del PCAP.
+P9. Resolución
+Criterio: Se etiqueta como “resolucion” la oración u oraciones sobre las causas y circunstancias que facultan a una u otra parte, o a ambas para dar por terminado el contrato y sus consecuencias.
+P9.01
+Ejemplos: [En cuanto a sus efectos y extinción, y sin perjuicio de las excepciones previstas en el Resolucion artículo 319 de la LCSP, aplicarán las normas del Derecho Privado]
+P9.02
+Ejemplos: [En cuanto a sus efectos y extinción aplicarán las normas del Derecho Privado]
+P9.03
+Ejemplos: OCTAVA.- [El contratista manifiesta encontrarse al corriente en el cumplimiento de todas sus obligaciones tributarias, así como en materia de Seguridad Social, obligándose a mantenerse al corriente en el cumplimiento de tales obligaciones y, en caso de ser requerido para ello, a presentar, en tanto permanezca en vigor el presente concierto, la documentación acreditativa del cumplimiento de sus obligaciones relativas a la prevención de riesgos laborales. Su no presentación será causa legítima de resolución contractual].
+P9.04
+Ejemplos:  [Causas de resolución. La resolución del contrato producirá los efectos que señala la LCSP]. Cuando el contrato se resuelva por incumplimiento culpable de la contratista, este deberá indemnizar a la FTR de los daños y perjuicios ocasionados. En todo caso, el contrato se entenderá cumplido por la empresa/persona contratista cuando este se haya realizado, de acuerdo con lo establecido en el PCAP. Las condiciones de entrega, recepción o admisión de la prestación son las establecidas en el Pliego de Cláusulas Administrativas Particulares."
+P9.05
+Ejemplos: DÉCIMOTERCERA.- [Son causas de extinción de la concesión las previstas en la cláusula 42 del Pliego de Cláusulas Administrativas. La aplicación de las causas de extinción de la concesión se establece en la cláusula 43 del Pliego de Cláusulas Administrativas, y debe ser acordada por el órgano competente de oficio o a instancia del concesionario, y producirá los efectos que se estipulan en la cláusula 44 del citado pliego]. En todo caso, el acuerdo de extinción contendrá pronunciamiento expreso acerca de la procedencia o no de la pérdida, devolución o cancelación de la garantía que, en su caso, hubiese sido constituida.
+P9.06
+Ejemplos: La expiración del plazo pactado o el de cualquiera de sus prórrogas determinará la extinción del contrato. [No obstante, cuando al vencimiento del contrato no se hubiera formalizado el nuevo contrato que garantice la continuidad de la prestación a realizar por el contratista, el órgano de contratación podrá prorrogar el contrato, sin necesidad de preaviso, hasta que comience la ejecución del nuevo contrato, de acuerdo con lo dispuesto en el artículo 29.4 de la LCSP. Todo ello sin perjuicio de la resolución del contrato a la que se refiere la cláusula “Resolución y extinción” del Pliego de Cláusulas Particulares].
+P9.07
+Ejemplos: Decimoquinta.- [El presente concierto se extinguirá, por las siguientes: a) Por carecer la entidad concertada de los permisos y autorizaciones legales o administrativos que sean preceptivos en cada momento para la prestación de los servicios objeto del concierto. b) Cuando, a juicio de la Mutua, se produzcan deficiencias en el cumplimiento de los servicios de la entidad concertada que la hagan no idónea para los fines convenidos. c) La falta de aseguramiento a que se refiere la estipulación decimoctava o la insuficiencia del mismo. d) Por incumplimiento por parte de la entidad concertada de cualesquiera de las condiciones o compromisos previstos en el concierto. Las causas señaladas en los párrafos anteriores facultarán a xxx, para la rescisión automática del presente concierto, sin que en tal supuesto la entidad concertada tenga derecho a ningún tipo de compensación, indemnización o abono por tal resolución contractual](...)
+Ejemplos: Decimosexta.- [La falta de veracidad en cuanto a los datos recogidos en el presente concierto dará lugar a la rescisión del mismo, sin compensación ni indemnización alguna, sin perjuicio de la existencia de las restantes responsabilidades a las que hubiere lugar].
+P9.08
+Ejemplos: OCTAVA.- Penalidades. 1. En los supuestos de ejecución defectuosa de las prestaciones incluidas en el presente contrato se aplicarán las reglas comprendidas en las estipulaciones administrativas particulares. 2. [Los defectos en que incurra la contratista darán lugar al apercibimiento por escrito por parte de la FTR. En su caso, oída la contratista, podrán dar lugar a la resolución del contrato en los términos recogidos en la referida estipulación del pliego de cláusulas administrativas particulares].
+P9.09
+Ejemplos: En caso de incumplimiento del plazo, total, la Administración podrá optar indistintamente por la resolución del contrato o por la imposición de las penalidades previstas en el pliego de cláusulas administrativas particulares.
+P9.10
+Ejemplos: De acuerdo con lo estipulado en el PCAP del contrato, la legislación aplicable a este contrato de carácter administrativo será, en cuanto a su preparación, adjudicación, efectos, cumplimiento y extinción, la contemplada en el artículo 25.2 de la LCSP.
+P9.11
+Ejemplos: [No obstante, por tratarse de un contrato sujeto a regulación armonizada, le será de aplicación lo establecido en los artículos de la LCSP relativos a las condiciones especiales de ejecución, modificación, cesión, subcontratación y resolución de los contratos].
+P9.12
+Ejemplos: [El acuerdo se extinguirá por resolución y por conclusión o cumplimiento del mismo, de conformidad con lo establecido en el Pliego de Condiciones de Contratación]. Cuando el contrato se resuelva por causas imputables al adjudicatario, éste deberá indemnizar a PARADORES de los daños y perjuicios causados. [En el supuesto de resolución por mutuo acuerdo de las partes al Adjudicatario no le corresponderá otro derecho que el de serle abonados los servicios efectivamente prestados hasta el momento de la resolución].
