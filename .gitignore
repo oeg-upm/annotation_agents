@@ -16,3 +16,6 @@ env/
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 INES-agent-test.ipynb
+requirements_gpu_freeze.txt
+untitled.md
+Untitled.ipynb
